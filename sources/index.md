@@ -4,6 +4,7 @@
 
 | 日期 | 文件 | 条数／备注 |
 |------|------|-----------|
+| 2026-11-21 | [2026-11-21.md](daily/2026-11-21.md) | 3 条（agentusecases 3；Telegram 无收录） |
 | 2026-11-20 | [2026-11-20.md](daily/2026-11-20.md) | 7 条（Telegram 3 + agentusecases 4） |
 | 2026-11-19 | [2026-11-19.md](daily/2026-11-19.md) | 4 条（agentusecases 4；Telegram 无新帖） |
 | 2026-11-18 | [2026-11-18.md](daily/2026-11-18.md) | 19 条（Telegram 7 + agentusecases 12；补录 11-16/17） |
